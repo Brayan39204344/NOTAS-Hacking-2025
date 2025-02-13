@@ -190,4 +190,6 @@ PerfectBlack-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 14291 |grep p
 picoCTF{digital_plumb3r_ea8bfec7}
 
 
-``````
+
+
+R

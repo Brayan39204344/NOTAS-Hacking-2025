@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICOS CTF/General skills/01-LetsWarmUp.md",
+                "file": "2Warm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-LetsWarmUp"
+              "title": "2Warm"
             }
           }
         ],
@@ -212,10 +212,10 @@
   },
   "active": "963e91d371801139",
   "lastOpenFiles": [
+    "PICOS CTF/General skills/01-LetsWarmUp.md",
     "Welcome.md",
     "README.md",
     "2Warm.md",
-    "PICOS CTF/General skills/01-LetsWarmUp.md",
     "Sin título.md",
     "PICOS CTF/General skills",
     "PICOS CTF"
